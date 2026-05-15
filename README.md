@@ -30,7 +30,7 @@ This project is a simple **Product and Inventory Management System** developed u
 
 1. Clone the repository:
 (```bash)
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Wuelite911/Product-Stock-Manager.git
 
 
 ---
